@@ -29,6 +29,7 @@ You appear not to be near any campus location for the school you have selected.
 
 選択した校舎からあまりにも遠い場所にいるため、その学校に所属していると判断されません。
 この場合、申請理由や学生証の写真に通信制高校の生徒である旨を記載することで対策ができます。
+プロフィールの更新には一度ログアウトが必要な点に注意してください。
 
 ### プロフィールが不十分
 
@@ -51,3 +52,10 @@ Uploaded images are more easily manipulated and are therefore less trustworthy.
 
 学生証の写真がアップロードされているため、信頼性が低いと判断されています。
 これはデジタルである限り仕方がないので、印刷してPCのカメラで頑張って撮りましょう。
+
+### 学生証の写真が編集されている
+
+The image you used appears to be edited. Manipulated images may not be used. Please try a different image.
+
+学生証の写真が編集されているため、使用できないとのことです。
+これもデジタルである限り仕方がないので、同じく印刷してPCのカメラで撮影しましょう。
