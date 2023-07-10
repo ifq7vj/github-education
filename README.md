@@ -97,3 +97,13 @@ GitHubのプロフィールに学生証と同様の情報や、高校のホー�
 
 1. [GitHub Education](https://education.github.com/)にアクセスし、指示に従って申請を行いましょう。
 2. [Get your GitHub benefits](https://education.github.com/discount_requests/application)で状況を確認し、Approvedとなっていれば成功です。
+
+## GitHub Copilot
+
+GitHub Copilotは、GitHubが提供するAIによるコード補完機能で、VSCode, Visual Studio, JetBrains IDE, Vim/NeoVimに対応しています。
+拡張機能をインストールして簡単にCopilotを利用することができるエディタもあるので、[GitHub Copilotの概要](https://docs.github.com/ja/copilot/getting-started-with-github-copilot)を参考に、ぜひ活用してみてください！
+
+## おわりに
+
+上記の方法を何度も試しても通らないという事もあると思いますが、今後の申請のハードルが下がるよう、格闘して情報を共有していただけると嬉しいです。
+最後に、この記事が少しでも役に立てることを願い、様々な情報を共有してくださった#programmingの皆様に感謝しています。
