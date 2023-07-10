@@ -25,7 +25,7 @@ GitHubアカウントを持っていない場合は、[GitHub](https://github.co
 
 ### 選択した学校の近くにいない
 
-You appear not to be near any campus location for the school you have selected.
+> You appear not to be near any campus location for the school you have selected.
 
 選択した校舎からあまりにも遠い場所にいるため、その学校に所属していると判断されません。
 この場合、申請理由や学生証の写真に通信制高校の生徒である旨を記載することで対策ができます。
@@ -33,14 +33,14 @@ You appear not to be near any campus location for the school you have selected.
 
 ### プロフィールが不十分
 
-You are unlikely to be verified until you have completed your GitHub user profile with your full name as it appears in your academic affiliation document plus a short bio.
+> You are unlikely to be verified until you have completed your GitHub user profile with your full name as it appears in your academic affiliation document plus a short bio.
 
 GitHubのプロフィールが不十分であるため、学生証の写真に記載されている情報との照合ができません。
 GitHubのプロフィールに学生証と同様の情報や、高校のホームページのURLを記載することで対策ができます。
 
 ### 学校名が含まれていない (S高生)
 
-The image you selected does not appear to contain your school name.
+> The image you selected does not appear to contain your school name.
 
 学生証の写真に入力したものと同様の学校名が含まれていないため、照合ができないとのことです。
 このエラーが出た時にもしっかりと学校名が写っていたため、S高生がメールドメインからN高生と判断されている時に生じるエラーでしょう。
@@ -48,14 +48,14 @@ The image you selected does not appear to contain your school name.
 
 ### 学生証の写真が不十分
 
-Uploaded images are more easily manipulated and are therefore less trustworthy.
+> Uploaded images are more easily manipulated and are therefore less trustworthy.
 
 学生証の写真がアップロードされているため、信頼性が低いと判断されています。
 これはデジタルである限り仕方がないので、印刷してPCのカメラで頑張って撮りましょう。
 
 ### 学生証の写真が編集されている
 
-The image you used appears to be edited. Manipulated images may not be used. Please try a different image.
+> The image you used appears to be edited. Manipulated images may not be used. Please try a different image.
 
 学生証の写真が編集されているため、使用できないとのことです。
 これもデジタルである限り仕方がないので、同じく印刷してPCのカメラで撮影しましょう。
@@ -79,13 +79,13 @@ The image you used appears to be edited. Manipulated images may not be used. Ple
 
 ### 申請理由
 
-申請理由は以下のように記載しました。必要に応じで変更してください。
+申請理由は以下のように記載しました。必要に応じて変更してください。
 
-I will use GitHub Pro to improve my development and projects.
-I am a student at S High School, a correspondence high school, and my student ID is digital.
-My email domain is nnn.ed.jp, which I share with N High School.
-I can tell it is official by checking it against the school's website.
-https://nnn.ed.jp/high_school_feature/s_high_school/
+> I will use GitHub Pro to improve my development and projects.
+> I am a student at S High School, a correspondence high school, and my student ID is digital.
+> My email domain is nnn.ed.jp, which I share with N High School.
+> I can tell it is official by checking it against the school's website.
+> https://nnn.ed.jp/high_school_feature/s_high_school/
 
 ### 学生証の写真
 
