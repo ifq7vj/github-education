@@ -70,7 +70,7 @@ The image you used appears to be edited. Manipulated images may not be used. Ple
 私の場合ですが、以下のように記載しました。(詳細には覚えていないので、一部誤りがあるかもしれません)
 
 | 項目 | 内容 |
-| - | - |
+| :-: | :-: |
 | Name | <ローマ字> / <本名> |
 | Bio | S High School Student |
 | Company | S High School / S高等学校 |
@@ -90,6 +90,7 @@ https://nnn.ed.jp/high_school_feature/s_high_school/
 ### 学生証の写真
 
 マイページのスクリーンショットを撮り、右側に英語訳/左側には背景の説明を記載して印刷、PCのカメラで撮影しました。
+[テンプレート](https://github.com/ifq7vj/github-education/blob/main/student_card.psd)を適当に編集して使用するか、参考に何らかの形で情報を記載すると良いでしょう。
 証明書の形式はStudent Idです。
 
 ### 申請
