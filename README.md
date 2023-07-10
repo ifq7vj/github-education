@@ -59,3 +59,40 @@ The image you used appears to be edited. Manipulated images may not be used. Ple
 
 学生証の写真が編集されているため、使用できないとのことです。
 これもデジタルである限り仕方がないので、同じく印刷してPCのカメラで撮影しましょう。
+
+## 詳細な申請方法/通し方
+
+以下に詳細な申請方法及び通し方を示します。
+
+### プロフィールの更新
+
+まずはGitHubのプロフィールを更新しましょう。
+私の場合ですが、以下のように記載しました。(詳細には覚えていないので、一部誤りがあるかもしれません)
+
+| 項目 | 内容 |
+| - | - |
+| Name | <ローマ字> / <本名> |
+| Bio | S High School Student |
+| Company | S High School / S高等学校 |
+| Location | Sapporo, Hokkaido, Japan |
+| Website | https://nnn.ed.jp/high_school_feature/s_high_school/ |
+
+### 申請理由
+
+申請理由は以下のように記載しました。必要に応じで変更してください。
+
+I will use GitHub Pro to improve my development and projects.
+I am a student at S High School, a correspondence high school, and my student ID is digital.
+My email domain is nnn.ed.jp, which I share with N High School.
+I can tell it is official by checking it against the school's website.
+https://nnn.ed.jp/high_school_feature/s_high_school/
+
+### 学生証の写真
+
+マイページのスクリーンショットを撮り、右側に英語訳/左側には背景の説明を記載して印刷、PCのカメラで撮影しました。
+証明書の形式はStudent Idです。
+
+### 申請
+
+1. [GitHub Education](https://education.github.com/)にアクセスし、指示に従って申請を行いましょう。
+2. [Get your GitHub benefits](https://education.github.com/discount_requests/application)で状況を確認し、Approvedとなっていれば成功です。
