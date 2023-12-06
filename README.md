@@ -1,28 +1,28 @@
-# N/S高生へ、GitHub Educationについて
+# N/S高生へ、GitHub Education について
 
 ## はじめに
 
-GitHub Educationは、GitHubが提供する教育向けのサービスです。
-GitHub Educationを利用することで、GitHubの学生向けプランのGitHub Global Campusや、それに付随する有料プランのGitHub Proなど、様々なサービスを無償で利用することができます。
-GitHub Copilotを利用出来ることも大きな利点でしょう。
+GitHub Education は、GitHub が提供する教育向けのサービスです。
+GitHub Education を利用することで、GitHub の学生向けプランの GitHub Global Campus や、それに付随する有料プランの GitHub Pro など、様々なサービスを無償で利用することができます。
+GitHub Copilot を利用出来ることも大きな利点でしょう。
 
-そんなわけで申請しない訳にはいかない(と私は思う)のですが、いざやってみると全く通らない...
-最終的には通しましたが、結構格闘したのでGitHub Educationについて軽くまとめてみます。
+そんなわけで申請しない訳にはいかない (と私は思う) のですが、いざやってみると全く通らない...
+最終的には通しましたが、結構格闘したので GitHub Education について軽くまとめてみます。
 
 ## 申請方法の概要
 
-GitHub Educationの申請方法を以下に示します。
+GitHub Education の申請方法を以下に示します。
 一度では通らないと思いますが、まずは申請してみましょう。
-GitHubアカウントを持っていない場合は、[GitHub](https://github.com/)からアカウントを作成してください。
+GitHub アカウントを持っていない場合は、[GitHub](https://github.com/) からアカウントを作成してください。
 
-1. [GitHub Education](https://education.github.com/)にアクセスし、指示に従って進みます。
+1. [GitHub Education](https://education.github.com/) にアクセスし、指示に従って進みます。
 2. メールアドレスや在籍している学校などの情報や、学生証の写真を求められるのでアップロードします。
-3. [Get your GitHub benefits](https://education.github.com/discount_requests/application)から申請の状況を見る事ができます。Approvedが表示されていれば成功です。
+3. [Get your GitHub benefits](https://education.github.com/discount_requests/application) から申請の状況を見る事ができます。Approved が表示されていれば成功です。
 4. しばらく待ちましょう。申請後、数時間から数日で承認されます。
 
 ## トラブルシューティング
 
-ほとんどの人は、上記の方法で申請しても承認されずにRejectedと表示されていると思います。
+ほとんどの人は、上記の方法で申請しても承認されずに Rejected と表示されていると思います。
 私は以下の方法で対策できたため、参考にしてください。
 弾かれた理由はあくまで可能性なので、別の原因があるかもしれません。
 
@@ -37,8 +37,8 @@ GitHubアカウントを持っていない場合は、[GitHub](https://github.co
 
 > You are unlikely to be verified until you have completed your GitHub user profile with your full name as it appears in your academic affiliation document plus a short bio.
 
-GitHubのプロフィールが不十分であるため、学生証の写真に記載されている情報との照合ができません。
-GitHubのプロフィールに学生証と同様の情報や、高校のホームページのURLを記載することで対策ができます。
+GitHub のプロフィールが不十分であるため、学生証の写真に記載されている情報との照合ができません。
+GitHub のプロフィールに学生証と同様の情報や、高校のホームページのURLを記載することで対策ができます。
 プロフィールの更新には一度ログアウトが必要な点に注意してください。
 
 ### 学校名が含まれていない (S高生)
@@ -54,14 +54,14 @@ GitHubのプロフィールに学生証と同様の情報や、高校のホー�
 > Uploaded images are more easily manipulated and are therefore less trustworthy.
 
 学生証の写真がアップロードされているため、信頼性が低いと判断されています。
-これはデジタルである限り仕方がないので、印刷してPCのカメラで頑張って撮りましょう。
+これはデジタルである限り仕方がないので、印刷して PC のカメラで頑張って撮りましょう。
 
 ### 学生証の写真が編集されている
 
 > The image you used appears to be edited. Manipulated images may not be used. Please try a different image.
 
 学生証の写真が編集されているため、使用できないとのことです。
-これもデジタルである限り仕方がないので、同じく印刷してPCのカメラで撮影しましょう。
+これもデジタルである限り仕方がないので、同じく印刷して PC のカメラで撮影しましょう。
 
 ## 詳細な申請方法/通し方
 
@@ -70,7 +70,7 @@ GitHubのプロフィールに学生証と同様の情報や、高校のホー�
 
 ### プロフィールの更新
 
-まずはGitHubのプロフィールを更新しましょう。
+まずは GitHub のプロフィールを更新しましょう。
 私の場合ですが、以下のように記載しました。(詳細には覚えていないので、一部誤りがあるかもしれません)
 
 | 項目 | 内容 |
@@ -84,7 +84,7 @@ GitHubのプロフィールに学生証と同様の情報や、高校のホー�
 ### 申請理由
 
 申請理由は以下のように記載しました。必要に応じて変更してください。
-「GitHub Proを使って、開発やプロジェクトをより良いものにしていきたいと思います。」という文章と、本校からの距離/メールドメインに関する説明です。
+「GitHub Pro を使って、開発やプロジェクトをより良いものにしていきたいと思います。」という文章と、本校からの距離/メールドメインに関する説明です。
 
 > I will use GitHub Pro to improve my development and projects.
 > I am a student at S High School, a correspondence high school, and my student ID is digital.
@@ -94,21 +94,21 @@ GitHubのプロフィールに学生証と同様の情報や、高校のホー�
 
 ### 学生証の写真
 
-マイページのスクリーンショットを撮り、右側に英語訳/左側には背景の説明を記載して印刷、PCのカメラで撮影しました。
-[テンプレート](https://github.com/ifq7vj/github-education/blob/main/student_card.psd)(psd)を適当に編集して使用するか、参考にして情報を記載すると良いでしょう。
-証明書の形式はStudent Idです。
+マイページのスクリーンショットを撮り、右側に英語訳/左側には背景の説明を記載して印刷、PC のカメラで撮影しました。
+[テンプレート](https://github.com/ifq7vj/github-education/blob/main/student_card.psd)(psd) を適当に編集して使用するか、参考にして情報を記載すると良いでしょう。
+証明書の形式は Student Id です。
 
 ### 申請
 
-1. [GitHub Education](https://education.github.com/)にアクセスし、指示に従って申請を行いましょう。
-2. [Get your GitHub benefits](https://education.github.com/discount_requests/application)で状況を確認し、Approvedとなっていれば成功です！！
+1. [GitHub Education](https://education.github.com/) にアクセスし、指示に従って申請を行いましょう。
+2. [Get your GitHub benefits](https://education.github.com/discount_requests/application) で状況を確認し、Approved となっていれば成功です！！
 
 ## GitHub Copilot
 
-GitHub Copilotは、GitHubが提供するAIによるコード補完機能で、VSCode, Visual Studio, JetBrains IDE, Vim/NeoVimに対応しています。
-拡張機能をインストールして簡単にCopilotを利用することができるエディタもあるので、[GitHub Copilotの概要](https://docs.github.com/ja/copilot/getting-started-with-github-copilot)を参考に、ぜひ活用してみてください！
+GitHub Copilot は、GitHub が提供する AI によるコード補完機能で、VSCode, Visual Studio, JetBrains IDE, Vim/NeoVim に対応しています。
+拡張機能をインストールして簡単に Copilot を利用することができるエディタもあるので、[GitHub Copilotの概要](https://docs.github.com/ja/copilot/getting-started-with-github-copilot) を参考に、ぜひ活用してみてください！
 
 ## おわりに
 
 上記の方法を何度も試しても通らないという事もあると思いますが、今後の申請のハードルが下がるよう、格闘して情報を共有していただけると嬉しいです。
-最後に、この記事が少しでも役に立てることを願い、様々な情報を共有してくださった#programmingの皆様に感謝しています。
+最後に、この記事が少しでも役に立てることを願い、様々な情報を共有してくださった #programming の皆様に感謝しています。
