@@ -9,16 +9,15 @@ Education に登録すると、学生向けプランの Global Campus や有料�
 そんなわけで、申請しない手はない！！ と思ったのですが、いざやってみると全く通らない...
 かなり格闘してやっと通せたので、Education について少しまとめてみようと思います。
 
-## 申請方法の概要
+## 申請方法
 
-GitHub Education の申請方法を以下に示します。
-一度では通らないと思いますが、まずは申請してみましょう。
+高確率で弾かれると思いますが、やってみないと始まりません。まずは一度申請してみましょう！
 GitHub アカウントを持っていない場合は、[GitHub](https://github.com/) からアカウントを作成してください。
 
-1. [GitHub Education](https://education.github.com/) にアクセスし、指示に従って進みます。
-2. メールアドレスや在籍している学校などの情報や、学生証の写真を求められるのでアップロードします。
-3. [Get your GitHub benefits](https://education.github.com/discount_requests/application) から申請の状況を見る事ができます。Approved が表示されていれば成功です。
-4. しばらく待ちましょう。申請後、数時間から数日で承認されます。
+1. [GitHub Education](https://education.github.com/) にアクセスし、指示にしたがって進みます。
+2. メールアドレスや在籍校、学生証の写真などを求められるので、入力していきます。
+3. [Get your GitHub benefits](https://education.github.com/discount_requests/application) から申請の状況を確認できます。Approve と表示されていれば成功です。
+4. しばらく待ちましょう。申請後は、数時間から数日で承認されます。
 
 ## トラブルシューティング
 
